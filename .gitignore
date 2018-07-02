@@ -1,0 +1,9 @@
+
+*.prefs
+*.class
+target/classes/META-INF/maven/com.youyd/order/pom.properties
+target/classes/META-INF/maven/com.youyd/order/pom.xml
+target/classes/META-INF/MANIFEST.MF
+target/classes/application.yml
+.project
+.classpath
